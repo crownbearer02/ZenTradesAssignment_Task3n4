@@ -6,12 +6,12 @@ body {
 
 .main-box {
     width: 56%;
-    max-width: 1200px; /* Adjust the maximum width as needed */
-    margin: 20px auto; /* Center the box and provide some margin */
+    max-width: 1200px; 
+    margin: 20px auto; 
     padding: 20px;
-    background-color: #fff; /* Background color */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Box shadow */
-    border-radius: 10px; /* Optional: Add border-radius for rounded corners */
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px; 
     box-sizing: border-box; /* Include padding and border in the box's total width and height */
 }
 
